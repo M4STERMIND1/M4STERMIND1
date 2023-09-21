@@ -9,7 +9,7 @@
 ## ★ Github data ★
 >
 > *Number of visitors*
-* **Visitor Github @USMAN**
+* **Visitor Github @SIAL ZADA**
 ![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=blue)
 ### Languages
 
@@ -58,4 +58,4 @@
 
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/M4STERMIND1)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Follow+USMAN....!+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Follow+SIALZADA....!+)
